@@ -1,6 +1,6 @@
 # ShockingRotom June, 2021
 ## PythonSortingAlgorithms
-###### Runs and compares different sorting algorithms as well as runs a searching algorithm
+###### Runs and compares different sorting algorithms as well as runs a binary searching algorithm
 
 Algorithms are measured by the time it takes to complete them and sometimes in very rare occurrences how much space
 it takes up. In this smaller example with only 5000 different integers space really isn't an issue. I imported the
